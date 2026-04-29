@@ -4,7 +4,7 @@
 Java & Javascript**
 🇧🇷 Brazil
 
-🌐 Where to find me
+## 🌐 Where to find me
 
 <p align="left">
   <a href="https://github.com/fefalcaoo">
@@ -26,8 +26,10 @@ Java & Javascript**
 - 🐳 Learning Docker and deployment basics
 - 📊 Creating simple systems and dashboards
 - 🚀 Continuously improving through projects
+
 ⸻
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 ### Frontend
 
